@@ -13,8 +13,18 @@
 
 - 📄 WORK EXPERIENCE [Junior Medical Laboratory Technician leesons hospital – Ragama (2019-2020–Present)](Junior Medical Laboratory Technician leesons hospital – Ragama (2019-2020–Present))
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">ACADEMIC BACKGROUND:</h3>
 <p align="left">
+  <h3> Advanced Level 2019 –  Mahamaya girls college </h3>
+  <p align="left">
+  <h3> Ordinary Level 2015 - Mahamaya girls college</h3>
+  <p align="left">
+  
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+  <h2> welivitashasheera1@gm ail.cm </h2>
+  <p align="left">
   
 <a href="https://fb.com/shasheera welivita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shasheera welivita" height="30" width="40" /></a>
 </p>
